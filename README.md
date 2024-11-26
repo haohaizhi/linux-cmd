@@ -20,8 +20,23 @@
 <br />
 <br />
 
+<p align="center">
+    <a href="https://dunwu.github.io/linux-tutorial/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/dunwu/images/master/common/logo/linux.svg" alt="logo" width="100px">
+    </a>
+</p>
 
-<h1 align="center">linux-cmd</h1>
+<p align="center">
+    <img src="https://badgen.net/github/license/dunwu/linux-tutorial" alt="license">
+    <img src="https://travis-ci.com/dunwu/linux-tutorial.svg?branch=master" alt="build">
+</p>
+
+<h1 align="center">linux-tutorial</h1>
+
+> 📚 **linux-tutorial** 是一个 Linux 教程。
+>
+> - 🔁 项目同步维护：[Github](https://github.com/dunwu/linux-tutorial/) | [Gitee](https://gitee.com/turnon/linux-tutorial/)
+> - 📖 电子书阅读：[Github Pages](https://dunwu.github.io/linux-tutorial/) | [Gitee Pages](http://turnon.gitee.io/linux-tutorial/)
 
 ## 📖 内容
 
