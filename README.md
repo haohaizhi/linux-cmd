@@ -1,24 +1,4 @@
-<p align="center">
-  <a href="https://github.com/haohaizhi">
-    <img src="https://github.com/haohaizhi/haohaizhi.github.io/blob/main/assets/avatar.jpg" width="130" />
-  </a>
-  <br />
-  <b>云淡风轻</b>
-  <p align="center">Linux-cmd</p>
-  <p align="center"> Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本</p>
-  
-  <p align="center">
-  <a href="https://github.com/haohaizhi/haohaizhi.github.io/blob/main/assets/qq.jpg">
-  <img src="https://img.shields.io/badge/Talk-QQ-brightgreen.svg?style=popout-square" alt="QQ"></a>
-  <a href="https://github.com/haohaizhi/linux-cmd/stargazers">
-  <img src="https://img.shields.io/github/stars/haohaizhi/linux-cmd.svg?style=popout-square" alt="GitHub stars"></a>
-  <a href="https://github.com/haohaizhi/linux-cmd/issues">
-  <img src="https://img.shields.io/github/issues/haohaizhi/linux-cmd.svg?style=popout-square" alt="GitHub issues"></a>
-</p>
 
-
-<br />
-<br />
 
 <p align="center">
     <a href="https://dunwu.github.io/linux-tutorial/" target="_blank" rel="noopener noreferrer">
