@@ -1,22 +1,24 @@
-
-
 <p align="center">
-    <a href="https://dunwu.github.io/linux-tutorial/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/dunwu/images/master/common/logo/linux.svg" alt="logo" width="100px">
-    </a>
+    <a href="https://github.com/haohaizhi">
+    <img src="https://github.com/haohaizhi/haohaizhi.github.io/blob/main/assets/avatar.jpg" width="130" />
+  </a>
 </p>
 
 <p align="center">
-    <img src="https://badgen.net/github/license/dunwu/linux-tutorial" alt="license">
-    <img src="https://travis-ci.com/dunwu/linux-tutorial.svg?branch=master" alt="build">
+    <a href="https://github.com/haohaizhi/haohaizhi.github.io/blob/main/assets/qq.jpg">
+    <img src="https://img.shields.io/badge/Talk-QQ-brightgreen.svg?style=popout-square" alt="QQ"></a>
+    <a href="https://github.com/haohaizhi/linux-cmd/stargazers">
+    <img src="https://img.shields.io/github/stars/haohaizhi/linux-cmd.svg?style=popout-square" alt="GitHub stars"></a>
+    <a href="https://github.com/haohaizhi/linux-cmd/issues">
+    <img src="https://img.shields.io/github/issues/haohaizhi/linux-cmd.svg?style=popout-square" alt="GitHub issues"></a>
 </p>
 
-<h1 align="center">linux-tutorial</h1>
+<h1 align="center">linux-cmd</h1>
 
-> 📚 **linux-tutorial** 是一个 Linux 教程。
+> 📚 Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本。
 >
-> - 🔁 项目同步维护：[Github](https://github.com/dunwu/linux-tutorial/) | [Gitee](https://gitee.com/turnon/linux-tutorial/)
-> - 📖 电子书阅读：[Github Pages](https://dunwu.github.io/linux-tutorial/) | [Gitee Pages](http://turnon.gitee.io/linux-tutorial/)
+> - 🔁 项目来源：[Github](https://github.com/dunwu/linux-tutorial/) | [Gitee](https://gitee.com/turnon/linux-tutorial/)
+> - 📖 电子书来源：[Github Pages](https://dunwu.github.io/linux-tutorial/) | [Gitee Pages](http://turnon.gitee.io/linux-tutorial/)
 
 ## 📖 内容
 
